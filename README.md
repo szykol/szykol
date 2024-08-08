@@ -1,4 +1,11 @@
-## Hi there 👋
+## Software Engineer | Go & Python
+
+- Software Developer @[Falcon V Systems](falconvsystems.com)
+- Proficient in Go and Python programming
+- Currently interested in enhancing my expertise in Go & learning Elixir
+- Editor of choice: NeoVim
+- Location: Kraków/Remote
+- In my free time, I enjoy playing guitar or biking
 
 <!--
 **szykol/szykol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
