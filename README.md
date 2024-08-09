@@ -3,7 +3,7 @@
 - Software Developer @[Falcon V Systems](https://falconvsystems.com)
 - Proficient in Go and Python programming
 - Currently interested in enhancing my expertise in Go & learning Elixir
-- Editor of choice: NeoVim
+- Editor of choice: NeoVim - [config based on kickstart.nvim](https://github.com/szykol/kickstart.nvim)
 - Location: Kraków/Remote
 - In my free time, I enjoy playing guitar or biking
 
