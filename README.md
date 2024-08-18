@@ -5,6 +5,7 @@
 - Currently interested in enhancing my expertise in Go & learning Elixir
 - Editor of choice: NeoVim - [config based on kickstart.nvim](https://github.com/szykol/kickstart.nvim)
 - Location: Kraków/Remote
+- My resume. Generated to .pdf from LaTeX via github actions: [szykol/resume](https://www.github.com/szykol/resume)
 - In my free time, I enjoy playing guitar or biking
 
 <!--
