@@ -1,6 +1,6 @@
 ## Software Engineer | Go & Python
 
-- Software Developer @[Falcon V Systems](https://falconvsystems.com)
+- Software Developer @[Vecima Networks Inc.](https://vecima.com/)
 - Proficient in Go and Python programming
 - Currently interested in enhancing my expertise in Go & learning Elixir
 - Editor of choice: NeoVim - [config based on kickstart.nvim](https://github.com/szykol/kickstart.nvim)
